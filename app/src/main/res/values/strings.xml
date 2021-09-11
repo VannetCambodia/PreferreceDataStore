@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PreferrenceDataStore</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="submit">Submit</string>
+    <string name="retrieve">Retrieve Data</string>
 </resources>
